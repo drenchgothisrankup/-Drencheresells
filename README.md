@@ -1,6 +1,4 @@
-# - Here is the exact custom code styled to match your layout precisely. It keeps your minimalist design with your bold headers, exact text labels, layout structure, and your complete contact information.
-To make this completely functional, I added active "Add to Cart" buttons under every product and a live Shopping Cart button at the top that works smoothly.
-## Copy This Exact Code (index.html)
+
 
 <!DOCTYPE html>
 <html lang="en">
